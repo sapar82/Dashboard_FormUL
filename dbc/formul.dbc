@@ -1,0 +1,64 @@
+VERSION ""
+
+
+NS_ : 
+	NS_DESC_
+	CM_
+	BA_DEF_
+	BA_
+	VAL_
+	CAT_DEF_
+	CAT_
+	FILTER
+	BA_DEF_DEF_
+	EV_DATA_
+	ENVVAR_DATA_
+	SGTYPE_
+	SGTYPE_VAL_
+	BA_DEF_SGTYPE_
+	BA_SGTYPE_
+	SIG_TYPE_REF_
+	VAL_TABLE_
+	SIG_GROUP_
+	SIG_VALTYPE_
+	SIGTYPE_VALTYPE_
+	BO_TX_BU_
+	BA_DEF_REL_
+	BA_REL_
+	BA_DEF_DEF_REL_
+	BU_SG_REL_
+	BU_EV_REL_
+	BU_BO_REL_
+	SG_MUL_VAL_
+
+BS_:
+
+BU_:
+
+
+BO_ 3221225472 VECTOR__INDEPENDENT_SIG_MSG: 0 Vector__XXX
+ SG_ APPS_old : 0|16@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Brake : 0|16@1+ (1,0) [0|100] "" Vector__XXX
+ SG_ Steering : 0|16@1- (1,0) [0|0] "" Vector__XXX
+
+BO_ 2281701504 apps: 2 Vector__XXX
+ SG_ apps : 0|16@1+ (1,0) [0|100] "%" Vector__XXX
+
+BO_ 2218983424 inverter3_status: 8 Vector__XXX
+ SG_ speed : 0|16@1+ (1,0) [0|0] "rpm" Vector__XXX
+
+BO_ 2281767040 bse: 2 Vector__XXX
+ SG_ bse : 0|16@1+ (1,0) [0|100] "%" Vector__XXX
+
+BO_ 2281832576 sps: 2 Vector__XXX
+ SG_ sps : 0|16@1- (1,0) [-73.2|80.3] "deg" Vector__XXX
+
+
+
+CM_ SG_ 2281701504 apps "Accelerator pedal position sensor";
+CM_ SG_ 2218983424 speed "Inverter 3 Speed";
+CM_ SG_ 2281767040 bse "Break system encoder";
+CM_ SG_ 2281832576 sps "Steering position sensor (-: right, +: left)";
+BA_DEF_  "BusType" STRING ;
+BA_DEF_DEF_  "BusType" "CAN";
+

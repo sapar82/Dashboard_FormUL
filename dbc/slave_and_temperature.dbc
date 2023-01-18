@@ -1,0 +1,391 @@
+VERSION ""
+
+
+NS_ : 
+		NS_DESC_
+		CM_
+		BA_DEF_
+		BA_
+		VAL_
+		CAT_DEF_
+		CAT_
+		FILTER
+		BA_DEF_DEF_
+		EV_DATA_
+		ENVVAR_DATA_
+		SGTYPE_
+		SGTYPE_VAL_
+		BA_DEF_SGTYPE_
+		BA_SGTYPE_
+		SIG_TYPE_REF_
+		VAL_TABLE_
+		SIG_GROUP_
+		SIG_VALTYPE_
+		SIGTYPE_VALTYPE_
+		BO_TX_BU_
+		BA_DEF_REL_
+		BA_REL_
+		BA_DEF_DEF_REL_
+		BU_SG_REL_
+		BU_EV_REL_
+		BU_BO_REL_
+		SG_MUL_VAL_
+
+BS_:
+
+BU_:
+
+
+BO_ 2181234688 Slave1_RX1: 8 Vector__XXX
+	SG_ Slave_1_temp_1 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_2 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_3 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_4 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_5 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_6 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_7 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_8 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181234944 Slave1_RX2: 8 Vector__XXX
+	SG_ Slave_1_temp_9 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_10 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_11 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_12 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_13 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_14 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_15 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_16 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181235200 Slave1_RX3: 8 Vector__XXX
+	SG_ Slave_1_temp_17 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_18 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_19 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_20 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_21 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_22 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_23 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_24 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181235456 Slave1_RX4: 8 Vector__XXX
+	SG_ Slave_1_temp_25 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_26 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_27 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_28 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_29 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_30 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_31 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_1_temp_32 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181235712 Slave2_RX1: 8 Vector__XXX
+	SG_ Slave_2_temp_1 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_2 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_3 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_4 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_5 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_6 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_7 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_8 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181235968 Slave2_RX2: 8 Vector__XXX
+	SG_ Slave_2_temp_9 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_10 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_11 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_12 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_13 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_14 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_15 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_16 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181236224 Slave2_RX3: 8 Vector__XXX
+	SG_ Slave_2_temp_17 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_18 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_19 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_20 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_21 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_22 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_23 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_24 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181236480 Slave2_RX4: 8 Vector__XXX
+	SG_ Slave_2_temp_25 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_26 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_27 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_28 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_29 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_30 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_31 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_2_temp_32 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181236736 Slave3_RX1: 8 Vector__XXX
+	SG_ Slave_3_temp_1 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_2 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_3 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_4 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_5 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_6 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_7 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_8 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181236992 Slave3_RX2: 8 Vector__XXX
+	SG_ Slave_3_temp_9 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_10 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_11 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_12 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_13 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_14 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_15 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_16 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181237248 Slave3_RX3: 8 Vector__XXX
+	SG_ Slave_3_temp_17 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_18 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_19 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_20 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_21 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_22 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_23 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_24 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181237504 Slave3_RX4: 8 Vector__XXX
+	SG_ Slave_3_temp_25 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_26 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_27 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_28 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_29 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_30 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_31 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_3_temp_32 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+
+BO_ 2181237760 Slave4_RX1: 8 Vector__XXX
+	SG_ Slave_4_temp_1 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_2 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_3 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_4 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_5 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_6 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_7 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_8 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181238016 Slave4_RX2: 8 Vector__XXX
+	SG_ Slave_4_temp_9 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_10 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_11 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_12 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_13 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_14 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_15 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_16 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181238272 Slave4_RX3: 8 Vector__XXX
+	SG_ Slave_4_temp_17 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_18 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_19 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_20 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_21 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_22 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_23 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_24 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181238528 Slave4_RX4: 8 Vector__XXX
+	SG_ Slave_4_temp_25 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_26 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_27 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_28 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_29 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_30 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_31 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_4_temp_32 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181238784 Slave5_RX1: 8 Vector__XXX
+	SG_ Slave_5_temp_1 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_2 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_3 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_4 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_5 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_6 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_7 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_8 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181239040 Slave5_RX2: 8 Vector__XXX
+	SG_ Slave_5_temp_9 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_10 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_11 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_12 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_13 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_14 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_15 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_16 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181239296 Slave5_RX3: 8 Vector__XXX
+	SG_ Slave_5_temp_17 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_18 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_19 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_20 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_21 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_22 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_23 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_24 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181239552 Slave5_RX4: 8 Vector__XXX
+	SG_ Slave_5_temp_25 : 0|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_26 : 8|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_27 : 16|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_28 : 24|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_29 : 32|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_30 : 40|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_31 : 48|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+	SG_ Slave_5_temp_32 : 56|8@1+ (2,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181169152 Segment1_RX1: 8 Vector__XXX
+	SG_ Segment_1_scaled_1 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_2 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_3 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_4 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_5 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_6 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_7 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_8 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181169408 Segment1_RX2: 8 Vector__XXX
+	SG_ Segment_1_scaled_9 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_10 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_11 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_12 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_13 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_14 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_15 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_16 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181169664 Segment1_RX3: 8 Vector__XXX
+	SG_ Segment_1_scaled_17 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_18 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_19 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_1_scaled_20 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_1 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_2 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_3 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_4 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181169920 Segment2_RX1: 8 Vector__XXX
+	SG_ Segment_2_scaled_5 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_6 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_7 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_8 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_9 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_10 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_11 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_12 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181170176 Segment2_RX2: 8 Vector__XXX
+	SG_ Segment_2_scaled_13 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_14 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_15 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_16 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_17 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_18 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_19 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_2_scaled_20 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181170432 Segment3_RX1: 8 Vector__XXX
+	SG_ Segment_3_scaled_1 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_2 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_3 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_4 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_5 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_6 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_7 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_8 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181170688 Segment3_RX2: 8 Vector__XXX
+	SG_ Segment_3_scaled_9 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_10 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_11 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_12 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_13 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_14 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_15 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_16 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181170944 Segment3_RX3: 8 Vector__XXX
+	SG_ Segment_3_scaled_17 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_18 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_19 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_3_scaled_20 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_1 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_2 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_3 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_4 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181171200 Segment4_RX1: 8 Vector__XXX
+	SG_ Segment_4_scaled_5 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_6 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_7 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_8 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_9 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_10 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_11 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_12 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181171456 Segment4_RX2: 8 Vector__XXX
+	SG_ Segment_4_scaled_13 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_14 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_15 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_16 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_17 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_18 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_19 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_4_scaled_20 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181171712 Segment5_RX1: 8 Vector__XXX
+	SG_ Segment_5_scaled_1 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_2 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_3 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_4 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_5 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_6 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_7 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_8 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181171968 Segment5_RX2: 8 Vector__XXX
+	SG_ Segment_5_scaled_9 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_10 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_11 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_12 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_13 : 32|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_14 : 40|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_15 : 48|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_16 : 56|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+BO_ 2181172224 Segment5_RX3: 4 Vector__XXX
+	SG_ Segment_5_scaled_17 : 0|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_18 : 8|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_19 : 16|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+	SG_ Segment_5_scaled_20 : 24|8@1+ (0.02,0) [0|0] "Volt" Vector__XXX
+
+
+
+
+
+
+
+
+
+CM_ BO_ 2181234688 "first in picture";
+BA_DEF_ SG_  "SPN" INT 0 524287;
+BA_DEF_ BO_  "VFrameFormat" ENUM  "StandardCAN","ExtendedCAN","reserved","J1939PG";
+BA_DEF_  "DatabaseVersion" STRING ;
+BA_DEF_  "BusType" STRING ;
+BA_DEF_  "ProtocolType" STRING ;
+BA_DEF_  "DatabaseCompiler" STRING ;
+BA_DEF_DEF_  "SPN" 0;
+BA_DEF_DEF_  "VFrameFormat" "J1939PG";
+BA_DEF_DEF_  "DatabaseVersion" "DEMO PLUS";
+BA_DEF_DEF_  "BusType" "";
+BA_DEF_DEF_  "ProtocolType" "";
+BA_DEF_DEF_  "DatabaseCompiler" "";
+BA_ "ProtocolType" "J1939";
+BA_ "BusType" "CAN";
+BA_ "DatabaseCompiler" "CSS ELECTRONICS (WWW.CSSELECTRONICS.COM)";
+BA_ "DatabaseVersion" "1.0.0";
+BA_ "VFrameFormat" BO_ 2364540158 3;
